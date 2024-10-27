@@ -68,15 +68,9 @@ This Challenge is graded based on the following criteria:
 
 * Satisfies all of the above acceptance criteria.
 
-### Deployment: 32%
+### Deployed Site
+https://abdihakim2334.github.io/PF/
 
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
 
 ### Application Quality: 15%
 
